@@ -9,7 +9,7 @@ public class BufferedReaderEx {
     public static void main(String[] args){
         try{
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-            System.out.println(br.readLine());
+            System.out.println("You typed: "+br.readLine());
         }
         catch(IOException e){
             System.out.println(e.getMessage());
