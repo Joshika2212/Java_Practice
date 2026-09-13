@@ -3,7 +3,7 @@ package File_Handling;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class InputStreamEx {
+public class InputStreamReaderEx {
     public static void main(String[] args){
         InputStreamReader isr = new InputStreamReader(System.in);
         try{
