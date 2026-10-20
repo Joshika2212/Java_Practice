@@ -1,0 +1,4 @@
+Java is easy.
+I am learning Java.
+Java is powerful.
+I like Java.

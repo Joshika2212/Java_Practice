@@ -1,0 +1,5 @@
+2026-10-01 INFO User login successful
+2026-10-01 ERROR Database connection failed
+2026-10-01 INFO User logged out
+2026-10-01 ERROR Payment service unavailable
+2026-10-01 WARN Disk space low
